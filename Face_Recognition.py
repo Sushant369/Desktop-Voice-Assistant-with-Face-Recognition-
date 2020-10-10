@@ -8,7 +8,7 @@ global id1
 def faceRec():
 
     pygame.init()
-    suspect=pygame.mixer.Sound("criminal.wav")
+
     recognizer = cv2.face.LBPHFaceRecognizer_create()
     recognizer.read('New1.yml')
     cascadePath = "haarcascade_frontalface_default.xml"
