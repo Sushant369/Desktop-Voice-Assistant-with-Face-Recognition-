@@ -1,1 +1,1 @@
-# Desktop-Voice-Asistance-with-Face-Recognition-
+# Desktop-Voice-Assistant-with-Face-Recognition-
